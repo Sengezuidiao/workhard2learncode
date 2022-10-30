@@ -17,7 +17,7 @@ typedef struct {
 // *L 指针指向结构体，操作地址后面的元素，一级指针无法改变L本身，需二级指针
 bool ListInsert(SqList *L, int x)
 {
-	
+	printf("hello")	
 }
 int main()
 {
